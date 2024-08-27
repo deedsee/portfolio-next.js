@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: An Interactive Journey
+title: An Interactive Journey Through the Wheel of the Year
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client

@@ -18,8 +18,8 @@ sections:
       consultant and Immersive Experience Creator
     subtitle: >-
       I'm glad you're here! I invite you to explore my site. Most of this
-      content is my latest work, as well as my insights and opinions about the
-      digital landscape.
+      content is my latest work, as well as my insights and opinions about our
+      rapidly evolving digital landscape.
     styles:
       self:
         height: auto

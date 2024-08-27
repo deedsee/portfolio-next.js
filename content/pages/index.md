@@ -17,9 +17,9 @@ sections:
       My name is Deirdre. I’m a developer, digital artist, storyteller,
       consultant and Immersive Experience Creator
     subtitle: >-
-      I'm glad you're here! I invite you to explore my site. Once you’re
-      impressed, you can continue to scroll down to see more details and
-      credentials about me.
+      I'm glad you're here! I invite you to explore my site. Most of this
+      content is my latest work, as well as my insights and opinions about the
+      digital landscape.
     styles:
       self:
         height: auto

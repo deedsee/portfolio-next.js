@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Lifelike_Vision_A_breathtaking_highcontrast_cinematic_portrait_1.jpg
+  url: /images/image_fx_ (1).jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat

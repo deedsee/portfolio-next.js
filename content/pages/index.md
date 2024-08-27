@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/image_fx_ (1).jpg
+  url: /images/Lifelike_Vision_A_vivid_dreamlike_website_background_in_earth_2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat

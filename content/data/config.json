@@ -47,7 +47,6 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/dragonfly.png",
             "altText": "deedsee.me home",
             "caption": "Caption of the image",
             "elementId": ""

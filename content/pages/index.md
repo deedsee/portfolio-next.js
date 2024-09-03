@@ -15,9 +15,8 @@ sections:
     backgroundSize: full
     title: My name is Deirdre. I’m a multimedia artist and storyteller
     subtitle: >-
-      I'm glad you're here! I invite you to explore my site. Most of this
-      content is my latest work, as well as my insights and opinions about our
-      rapidly evolving digital landscape.
+      I'm glad you're here! I invite you to explore my site. Some of this is
+      pretty weird...
     styles:
       self:
         height: auto
